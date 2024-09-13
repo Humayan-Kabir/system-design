@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "f45c441076ddae39",
+    "type": "split",
+    "children": [
+      {
+        "id": "37dcd6004275975b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6cf46a4598c407d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d0ac3e368c35a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4009264499fdbfe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b1b0833b80ea54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30a603dfc1cfa388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba9348b48d55b15f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c5410ac77b94ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "407d508c44cbfee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560b9960cbc8d3b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fb4ab316c6e9d1d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3228f172059d384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f454f34e6cf8c82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b6cf46a4598c407d",
+  "lastOpenFiles": [
+    "README.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "interview-questions/amazon/common questions.md",
+    "system-design-case-studies/low-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/images/system-design-topics.png",
+    "Pasted image 20240913232645.png",
+    "system-design-case-studies/high-level-design/images",
+    "system-design-case-studies/low-level-design/resources",
+    "Untitled",
+    "system-design-case-studies/low-level-design",
+    "System Design/high-level-design/Untitled.md",
+    "system-design-case-studies/high-level-design/resources",
+    "system-design-case-studies/high-level-design",
+    "2024-09-08.md",
+    "interview-questions/amazon",
+    "interview-questions",
+    "Excalidraw/Drawing 2024-08-25 21.03.18.excalidraw.md",
+    "2024-09-02.md",
+    "system-design-case-studies",
+    "Excalidraw",
+    "Untitled.md",
+    "Machine Learning.md",
+    "new title.md",
+    "Note.md",
+    "system-design.md",
+    "Excalidraw/Drawing 2024-08-25 17.27.06.excalidraw.md",
+    "Untitled.canvas",
+    "note.md",
+    "2024-08-25.md"
+  ]
+}
