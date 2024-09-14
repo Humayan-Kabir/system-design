@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "37dcd6004275975b",
+        "id": "87b823c701602773",
         "type": "tabs",
         "children": [
           {
-            "id": "b6cf46a4598c407d",
+            "id": "c6928d84c44ac604",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system-design-case-studies/low-level-design/resources/questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system-design-case-studies/low-level-design/resources/questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "system-design-case-studies/low-level-design/resources/questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "system-design-case-studies/low-level-design/resources/questions.md"
+              }
             }
           }
         ]
@@ -139,13 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6cf46a4598c407d",
+  "active": "c6928d84c44ac604",
   "lastOpenFiles": [
-    "README.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
-    "interview-questions/amazon/common questions.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "system-design-case-studies/low-level-design/resources/questions.md",
+    "system-design-case-studies/low-level-design/images/design-hashmap.webp",
+    "system-design-case-studies/low-level-design/images/design-hashmap 1.webp",
+    "system-design-case-studies/low-level-design/design-hash-map",
+    "system-design-case-studies/low-level-design/images",
     "system-design-case-studies/high-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "README.md",
+    "interview-questions/amazon/common questions.md",
     "system-design-case-studies/high-level-design/images/system-design-topics.png",
     "Pasted image 20240913232645.png",
     "system-design-case-studies/high-level-design/images",
@@ -160,8 +174,6 @@
     "interview-questions",
     "Excalidraw/Drawing 2024-08-25 21.03.18.excalidraw.md",
     "2024-09-02.md",
-    "system-design-case-studies",
-    "Excalidraw",
     "Untitled.md",
     "Machine Learning.md",
     "new title.md",

@@ -4,5 +4,8 @@
   "textFontFamily": "",
   "baseFontSize": 16,
   "interfaceFontFamily": "",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "center-mermaid"
+  ]
 }

@@ -1,45 +1,46 @@
 ## Low Level System Design Interview Questions
 ---
 
-| No  | Questions                                                               | Solutions | Videos |
-| --- | ----------------------------------------------------------------------- | --------- | ------ |
-|     | Design a **hashmap**                                                    |           |        |
-|     | Design a **least recently used cache**<br>+ *cache system*              |           |        |
-|     | Design a **thread safe hashmap**                                        |           |        |
-|     | Design **JSON parser from scratch**                                     |           |        |
-|     | Design **Distributed Id Generation like Twitter Snowflake id**          |           |        |
-|     | Design **a logger**                                                     |           |        |
-|     | Design a **vending machine**                                            |           |        |
-|     | Design a **ATM machine**                                                |           |        |
-|     | Design **Elevator**                                                     |           |        |
-|     | Design **Tic Tac Toe**                                                  |           |        |
-|     | Design **Chess Game**                                                   |           |        |
-|     | Design **Snake and Ladder Game**                                        |           |        |
-|     | Design **BlackJack and Deck of cards**                                  |           |        |
-|     | Design a **parking lot**                                                |           |        |
-|     | Design a **vehicle / car rental system**                                |           |        |
-|     | Design **Cab Booking like Uber, Ola**                                   |           |        |
-|     | Design a **airline management system**                                  |           |        |
-|     | Design a **hotel management system**<br>+ *online hotel booking system* |           |        |
-|     | Design a **restaurant management system**                               |           |        |
-|     | Design a **movie ticket booking system**                                |           |        |
-|     | Design a **online stock brokerage system**                              |           |        |
-|     | Design **Bill Sharing/Expense Sharing like Splitwise**                  |           |        |
-|     | Design a **configuration management system**                            |           |        |
-|     | Design **In-memory data streaming service**                             |           |        |
-|     | Design **In-memory DB with indexing**                                   |           |        |
-|     | Design **amazon locker service**                                        |           |        |
-|     | Design **amazon shopping system**                                       |           |        |
-|     | Uber Eats/ Door dash/ Swiggy                                            |           |        |
-|     | e-Commerce Review System                                                |           |        |
-|     | CricInfo/Cricbuzz                                                       |           |        |
-|     | Linkedin                                                                |           |        |
-|     | Facebook                                                                |           |        |
-|     | Pinterest                                                               |           |        |
-|     | TrueCaller                                                              |           |        |
-|     | online book reader system                                               |           |        |
-|     | logistic system                                                         |           |        |
-|     | Design Maps Navigator Client for different transportation types         |           |        |
+| No  | Questions                                                               | Solutions                                                                                                                                                                                                                           | Videos |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+|     | Design a **hashmap**                                                    | 1. [[design a hash map]]<br>2. [leetcode-prob-sol](https://leetcode.com/problems/design-hashmap/editorial/)<br>2. [leetcode-simple](https://leetcode.com/discuss/interview-question/object-oriented-design/124743/Design-a-HashMap) |        |
+|     | Design a **least recently used cache**<br>+ *cache system*              |                                                                                                                                                                                                                                     |        |
+|     | Design a **thread safe hashmap**                                        |                                                                                                                                                                                                                                     |        |
+|     | Design **JSON parser from scratch**                                     |                                                                                                                                                                                                                                     |        |
+|     | Design **Distributed Id Generation like Twitter Snowflake id**          |                                                                                                                                                                                                                                     |        |
+|     | Design **a logger**                                                     |                                                                                                                                                                                                                                     |        |
+|     | Design a **vending machine**                                            |                                                                                                                                                                                                                                     |        |
+|     | Design a **ATM machine**                                                |                                                                                                                                                                                                                                     |        |
+|     | Design **Elevator**                                                     |                                                                                                                                                                                                                                     |        |
+|     | Design **Tic Tac Toe**                                                  |                                                                                                                                                                                                                                     |        |
+|     | Design **Chess Game**                                                   |                                                                                                                                                                                                                                     |        |
+|     | Design **Snake and Ladder Game**                                        |                                                                                                                                                                                                                                     |        |
+|     | Design **BlackJack and Deck of cards**                                  |                                                                                                                                                                                                                                     |        |
+|     | Design a **parking lot**                                                |                                                                                                                                                                                                                                     |        |
+|     | Design a **vehicle / car rental system**                                |                                                                                                                                                                                                                                     |        |
+|     | Design **Cab Booking like Uber, Ola**                                   |                                                                                                                                                                                                                                     |        |
+|     | Design a **airline management system**                                  |                                                                                                                                                                                                                                     |        |
+|     | Design a **hotel management system**<br>+ *online hotel booking system* |                                                                                                                                                                                                                                     |        |
+|     | Design a **restaurant management system**                               |                                                                                                                                                                                                                                     |        |
+|     | Design a **movie ticket booking system**                                |                                                                                                                                                                                                                                     |        |
+|     | Design a **online stock brokerage system**                              |                                                                                                                                                                                                                                     |        |
+|     | Design **Bill Sharing/Expense Sharing like Splitwise**                  |                                                                                                                                                                                                                                     |        |
+|     | Design a **configuration management system**                            |                                                                                                                                                                                                                                     |        |
+|     | Design **In-memory data streaming service**                             |                                                                                                                                                                                                                                     |        |
+|     | Design **In-memory DB with indexing**                                   |                                                                                                                                                                                                                                     |        |
+|     | Design **amazon locker service**                                        |                                                                                                                                                                                                                                     |        |
+|     | Design **amazon shopping system**                                       |                                                                                                                                                                                                                                     |        |
+|     | Design a **garbage collector**                                          |                                                                                                                                                                                                                                     |        |
+|     | Uber Eats/ Door dash/ Swiggy                                            |                                                                                                                                                                                                                                     |        |
+|     | e-Commerce Review System                                                |                                                                                                                                                                                                                                     |        |
+|     | CricInfo/Cricbuzz                                                       |                                                                                                                                                                                                                                     |        |
+|     | Linkedin                                                                |                                                                                                                                                                                                                                     |        |
+|     | Facebook                                                                |                                                                                                                                                                                                                                     |        |
+|     | Pinterest                                                               |                                                                                                                                                                                                                                     |        |
+|     | TrueCaller                                                              |                                                                                                                                                                                                                                     |        |
+|     | online book reader system                                               |                                                                                                                                                                                                                                     |        |
+|     | logistic system                                                         |                                                                                                                                                                                                                                     |        |
+|     | Design Maps Navigator Client for different transportation types         |                                                                                                                                                                                                                                     |        |
 
 ## Some links to be visited
 ---
