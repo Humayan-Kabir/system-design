@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87b823c701602773",
+        "id": "870d4ae8e83b32a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6928d84c44ac604",
+            "id": "373f004d25543129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/low-level-design/resources/questions.md",
+                "file": "system-design-case-studies/high-level-design/resources/topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/low-level-design/resources/questions.md",
+                "file": "system-design-case-studies/high-level-design/resources/topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/low-level-design/resources/questions.md",
+                "file": "system-design-case-studies/high-level-design/resources/topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/low-level-design/resources/questions.md"
+                "file": "system-design-case-studies/high-level-design/resources/topics.md"
               }
             }
           }
@@ -147,31 +147,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6928d84c44ac604",
+  "active": "373f004d25543129",
   "lastOpenFiles": [
+    "system-design-case-studies/high-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/distributed-locking",
+    "system-design-case-studies/high-level-design/resources/Untitled",
     "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
-    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "system-design-case-studies/low-level-design/resources/questions.md",
+    "temp/customhashmap.png.crdownload",
+    "temp/customhashmap.png",
+    "temp/bucket.png",
+    "temp/bucket.png.crdownload",
+    "temp/node.png.crdownload",
+    "temp/node.png",
+    "temp",
+    "2024-09-14.md",
+    "Excalidraw/Drawing 2024-09-14 16.43.47.excalidraw.md",
+    "interview-questions/amazon/common questions.md",
+    "Excalidraw",
+    "README.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "system-design-case-studies/low-level-design/images/design-hashmap.webp",
     "system-design-case-studies/low-level-design/images/design-hashmap 1.webp",
     "system-design-case-studies/low-level-design/design-hash-map",
     "system-design-case-studies/low-level-design/images",
-    "system-design-case-studies/high-level-design/resources/questions.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
-    "README.md",
-    "interview-questions/amazon/common questions.md",
     "system-design-case-studies/high-level-design/images/system-design-topics.png",
     "Pasted image 20240913232645.png",
     "system-design-case-studies/high-level-design/images",
-    "system-design-case-studies/low-level-design/resources",
-    "Untitled",
-    "system-design-case-studies/low-level-design",
     "System Design/high-level-design/Untitled.md",
-    "system-design-case-studies/high-level-design/resources",
-    "system-design-case-studies/high-level-design",
     "2024-09-08.md",
-    "interview-questions/amazon",
-    "interview-questions",
     "Excalidraw/Drawing 2024-08-25 21.03.18.excalidraw.md",
     "2024-09-02.md",
     "Untitled.md",
