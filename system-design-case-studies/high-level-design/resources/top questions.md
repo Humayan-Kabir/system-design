@@ -178,4 +178,4 @@ ACTION POINTS:
 1. how to attempts system design interview questions (alex-xu + exponent)
 2. watch mock interview 
 3. how to ask questions to interviewer
-4. demo mock 
+4. demo mock

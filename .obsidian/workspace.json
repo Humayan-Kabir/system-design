@@ -11,8 +11,12 @@
             "id": "9fafd86a2486523e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 478.5
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/low-level-design/images/design-hashmap.webp",
+                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/low-level-design/images/design-hashmap.webp",
+                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/low-level-design/images/design-hashmap.webp"
+                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md"
               }
             }
           }
@@ -143,25 +147,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18b1b0833b80ea54",
+  "active": "9fafd86a2486523e",
   "lastOpenFiles": [
+    "system-design-case-studies/high-level-design/resources/online materials.md",
+    "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/resources/g.md",
+    "system-design-case-studies/high-level-design/Untitled",
+    "system-design-case-studies/low-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/Untitled.md",
+    "system-design-case-studies/low-level-design/images/design-hashmap.webp",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
     "system-design-case-studies/high-level-design/diagrams",
-    "system-design-case-studies/high-level-design/resources/questions.md",
     "system-design-case-studies/high-level-design/images/system-design-template.jpg",
     "system-design-case-studies/high-level-design/images/system-design-blueprint-alex-xu.jpeg",
     "temp/node.png",
     "temp/customhashmap.png",
     "temp/bucket.png",
     "temp",
-    "system-design-case-studies/high-level-design/resources/topics.md",
-    "system-design-case-studies/low-level-design/resources/questions.md",
     "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
     "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "2024-09-14.md",
     "system-design-case-studies/high-level-design/diagram/system-design-topics.png",
     "system-design-case-studies/high-level-design/basics",
-    "system-design-case-studies/low-level-design/images/design-hashmap.webp",
     "system-design-case-studies/low-level-design/images/design-hashmap 1.webp",
     "system-design-case-studies/low-level-design/design-hash-map",
     "system-design-case-studies/low-level-design/images",
@@ -173,7 +182,6 @@
     "Untitled",
     "system-design-case-studies/low-level-design",
     "System Design/high-level-design/Untitled.md",
-    "system-design-case-studies/high-level-design/resources",
     "2024-09-08.md",
     "Excalidraw/Drawing 2024-08-25 21.03.18.excalidraw.md",
     "2024-09-02.md",
