@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c156561d7570abe1",
+        "id": "8b5b2c3f3de76b00",
         "type": "tabs",
         "children": [
           {
-            "id": "9fafd86a2486523e",
+            "id": "6cea8128e84e4516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 344.5
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md"
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fafd86a2486523e",
+  "active": "6cea8128e84e4516",
   "lastOpenFiles": [
-    "system-design-case-studies/high-level-design/resources/online materials.md",
-    "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
+    "system-design-case-studies/low-level-design/resources/questions.md",
     "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/resources/online materials.md",
     "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
     "system-design-case-studies/high-level-design/resources/g.md",
     "system-design-case-studies/high-level-design/Untitled",
-    "system-design-case-studies/low-level-design/resources/questions.md",
     "system-design-case-studies/high-level-design/Untitled.md",
     "system-design-case-studies/low-level-design/images/design-hashmap.webp",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
