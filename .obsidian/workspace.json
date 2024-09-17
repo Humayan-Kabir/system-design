@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md"
+                "file": "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "6cea8128e84e4516",
   "lastOpenFiles": [
     "system-design-case-studies/low-level-design/resources/questions.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "system-design-case-studies/high-level-design/resources/top questions.md",
     "system-design-case-studies/high-level-design/resources/online materials.md",
     "system-design-case-studies/high-level-design/resources/topics.md",
@@ -166,8 +168,6 @@
     "temp/customhashmap.png",
     "temp/bucket.png",
     "temp",
-    "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
-    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "2024-09-14.md",
     "system-design-case-studies/high-level-design/diagram/system-design-topics.png",
     "system-design-case-studies/high-level-design/basics",
