@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a94843a508210bf4",
+        "id": "8705651857028857",
         "type": "tabs",
         "children": [
           {
-            "id": "44aa62433393c1d0",
+            "id": "8fbf26c1964ef693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter2-back-of-the-envelope-calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 300
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter2-back-of-the-envelope-calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter2-back-of-the-envelope-calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md"
+                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter2-back-of-the-envelope-calculation.md"
               }
             }
           }
@@ -147,43 +147,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44aa62433393c1d0",
+  "active": "8fbf26c1964ef693",
   "lastOpenFiles": [
-    "normalization.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
-    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "estimate-availability.png",
+    "system-design-case-studies/high-level-design/diagrams/estimation-visualization.png",
+    "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter2-back-of-the-envelope-calculation.md",
+    "system-design-case-studies/high-level-design/diagrams/estimate-latency.png",
+    "estimation-with-power-of-two.png",
     "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
-    "system-design-case-studies/high-level-design/diagrams/alex-xu-hld-chapter-1.png",
-    "system-design-case-studies/high-level-design/diagrams/alex-xu-hld-framework-chapter-1.png",
-    "system-design-case-studies/high-level-design/diagrams/database-sharding.png",
+    "system-design-case-studies/low-level-design/images/design-hashmap.webp",
+    "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
+    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/resources/online materials.md",
+    "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
     "system-design-case-studies/high-level-design/diagrams/message-queue.png",
+    "system-design-case-studies/high-level-design/diagrams/database-sharding.png",
     "system-design-case-studies/high-level-design/diagrams/cdn-workflow.png",
     "system-design-case-studies/high-level-design/diagrams/cache-access.png",
+    "system-design-case-studies/high-level-design/diagrams",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1",
     "Excalidraw/Drawing 2024-09-17 15.17.14.excalidraw.md",
     "Excalidraw",
-    "system-design-case-studies/high-level-design/alex-xu-book-1",
-    "system-design-case-studies/high-level-design/resources/online materials.md",
-    "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
-    "system-design-case-studies/low-level-design/resources/questions.md",
-    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
-    "system-design-case-studies/high-level-design/resources/g.md",
-    "system-design-case-studies/high-level-design/Untitled.md",
-    "system-design-case-studies/low-level-design/images/design-hashmap.webp",
-    "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
-    "system-design-case-studies/high-level-design/diagrams",
-    "system-design-case-studies/high-level-design/images/system-design-template.jpg",
-    "system-design-case-studies/high-level-design/images/system-design-blueprint-alex-xu.jpeg",
     "temp",
-    "2024-09-14.md",
-    "system-design-case-studies/high-level-design/basics",
-    "system-design-case-studies/low-level-design/design-hash-map",
-    "system-design-case-studies/low-level-design/images",
-    "README.md",
+    "system-design-case-studies/high-level-design/images",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/resources/questions.md",
+    "system-design-case-studies/low-level-design/resources/questions.md",
     "interview-questions/amazon/common questions.md",
-    "system-design-case-studies/high-level-design/diagram",
-    "system-design-case-studies/low-level-design/resources",
-    "Untitled",
+    "2024-09-14.md",
+    "README.md",
+    "system-design-case-studies/high-level-design/distributed-locking",
+    "system-design-case-studies/high-level-design/resources/Untitled",
+    "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
+    "temp/customhashmap.png.crdownload",
+    "temp/bucket.png.crdownload",
+    "temp/node.png.crdownload",
+    "Excalidraw/Drawing 2024-09-14 16.43.47.excalidraw.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "System Design/high-level-design/Untitled.md",
     "2024-09-08.md",
     "Excalidraw/Drawing 2024-08-25 21.03.18.excalidraw.md",
@@ -193,8 +195,6 @@
     "new title.md",
     "Note.md",
     "system-design.md",
-    "Excalidraw/Drawing 2024-08-25 17.27.06.excalidraw.md",
-    "Untitled.canvas",
-    "note.md"
+    "Untitled.canvas"
   ]
 }

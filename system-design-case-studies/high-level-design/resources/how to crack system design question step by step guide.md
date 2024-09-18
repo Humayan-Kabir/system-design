@@ -2,9 +2,13 @@
 ---
 * understand the problem and establish design scope
 	* clarify questions
-		* who are the primary users of this system? are we supposed to design from admin perspective also or customer perspective only?
-		* module: are we supposed to take care of food delivery system or restaurant / food search system?
+		*  Who is going to use it? are we supposed to design from admin perspective also or customer perspective only?
+		- What are the inputs and outputs of the system?
 		* how many users? how many DAU ?
+		- How much data do we expect to handle?
+		- How many requests per second do we expect?
+		- What is the expected read to write ratio?
+		- module: are we supposed to take care of food delivery system or restaurant / food search system?
 		* is our system going to be used only in Bangkok or globally?
 		* availability or consistency?
 	* function requirement
