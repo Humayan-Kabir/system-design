@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2048acb784610a83",
+        "id": "75efb1d00fa61011",
         "type": "tabs",
         "children": [
           {
-            "id": "85dc483d2880e605",
+            "id": "e2b3b2a519538068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
-                "mode": "source",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md"
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md"
               }
             }
           }
@@ -147,13 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85dc483d2880e605",
+  "active": "e2b3b2a519538068",
   "lastOpenFiles": [
-    "system-design-case-studies/high-level-design/resources/top questions.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
     "system-design-case-studies/high-level-design/resources/topics.md",
-    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
+    "README.md",
+    "2024-09-14.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-4-design-a-rate-limiter.md",
+    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
     "[chapter-4-design-a-rate-limiter.md",
     "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw",
     "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
@@ -184,8 +186,6 @@
     "system-design-case-studies/high-level-design/images",
     "system-design-case-studies/high-level-design/resources/questions.md",
     "interview-questions/amazon/common questions.md",
-    "2024-09-14.md",
-    "README.md",
     "system-design-case-studies/high-level-design/distributed-locking",
     "system-design-case-studies/high-level-design/resources/Untitled",
     "system-design-case-studies/low-level-design/design-hash-map/design a hash map.md",
