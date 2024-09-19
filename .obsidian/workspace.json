@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2c6ce0430592fc3f",
+        "id": "7d265159c0b6fe15",
         "type": "tabs",
         "children": [
           {
-            "id": "d8aee8ff4aee914a",
+            "id": "09f7ac3ea728a51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e02844577214cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,10 +160,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8aee8ff4aee914a",
+  "active": "0e02844577214cff",
   "lastOpenFiles": [
-    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
+    "[chapter-4-design-a-rate-limiter.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-4-design-a-rate-limiter.md",
+    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
     "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw",
     "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
@@ -165,9 +181,7 @@
     "Excalidraw/Drawing 2024-09-17 15.17.14.excalidraw.md",
     "Excalidraw/Unconfirmed 909416.crdownload",
     "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
-    "system-design-case-studies/high-level-design/resources/top questions.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-3-framework-for-sytem-design-interview.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-2-back-of-the-envelope-calculation.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
     "system-design-case-studies/low-level-design/resources/questions.md",
