@@ -5,8 +5,7 @@
 		*  Who is going to use it? are we supposed to design from admin perspective also or customer perspective only?
 		* What specific features are we going to build?
 			* ask features related questions after getting list.
-		* What is the scale of the system? Is it built for a startup or a big company with a
-		 large user base?
+		* What is the scale of the system? Is it built for a startup or a big company with a large user base?
 		 - Will the system work in a distributed environment
 		- What are the inputs and outputs of the system?
 		* how many users? how many DAU ?

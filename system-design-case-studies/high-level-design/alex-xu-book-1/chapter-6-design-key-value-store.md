@@ -1,0 +1,25 @@
+### Step-1: understand the problem and establish the design scope
+- do we need to design key value store for specific types of system? or do we need to design in general sense?
+	- general
+- in terms of requirement, we are supposed to support two functionalities
+	- put(key, value)
+	- get(key)
+- we are supposed to have different types in the value, right?
+	- string, int, set
+- what is the scale of the system? will the system work in distributed environment?
+	- yes
+- how many requests per second do we expect?
+	- 10M
+- what is the expected read / write ratio? can we expect like 80-20 rule?
+	- yes
+- what is the avg size of the value?
+	- 10KB
+- system should be highly scalable?
+	- yes
+- system should be highly available?
+	- yes
+- low latency?
+	- yes
+- consistency can be tunable, right?
+	- yes
+
