@@ -182,6 +182,14 @@
 - **CQRS (Command Query Responsibility Segregation)**
 - **Service Mesh**
 
+1. [15-articles-to-help](https://www.linkedin.com/feed/update/urn:li:activity:7242781540236099584/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242781540236099584%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+2. [30-blogs](https://www.linkedin.com/feed/update/urn:li:activity:7242385129304702976/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242385129304702976%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+3. [important-case-studies](https://www.linkedin.com/feed/update/urn:li:activity:7242148405798404096/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242148405798404096%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+4. [next-round-system-design](https://www.linkedin.com/posts/jainshrayansh_hld-softwareengineer-systemdesign-activity-7242040222442479617-8fcQ/)
+5. [next-round-hld](https://www.linkedin.com/posts/jainshrayansh_softwareengineer-java-springboot-activity-7241082209195958272-3tTs/)
+6. [10-cache-concept](https://www.linkedin.com/feed/update/urn:li:activity:7236348497694715904/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7236348497694715904%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+
 
 
 
