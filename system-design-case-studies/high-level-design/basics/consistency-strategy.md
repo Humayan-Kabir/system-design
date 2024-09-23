@@ -4,6 +4,7 @@
 > you need to sacrifice availability and latency to achieve this.
 #### eventual consistency
 > once data is updated, eventually it returns the updated values after certain time period.
+> Example: Dynamo, Cassandra
 
 ### Distributed consensus
 1. **Quorum consensus**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/high-level-design/basics/database-index.md",
+                "file": "system-design-case-studies/high-level-design/basics/bloom-filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/high-level-design/basics/database-index.md",
+                "file": "system-design-case-studies/high-level-design/basics/bloom-filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/high-level-design/basics/database-index.md",
+                "file": "system-design-case-studies/high-level-design/basics/bloom-filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/high-level-design/basics/database-index.md"
+                "file": "system-design-case-studies/high-level-design/basics/bloom-filter.md"
               }
             }
           }
@@ -149,7 +149,11 @@
   },
   "active": "e2b3b2a519538068",
   "lastOpenFiles": [
+    "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
+    "system-design-case-studies/high-level-design/basics/bloom-filter.md",
     "system-design-case-studies/high-level-design/basics/database-index.md",
+    "system-design-case-studies/high-level-design/basics/lsm-tree.md",
+    "system-design-case-studies/high-level-design/basics/consistency-strategy.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/HashMap.Java.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/Node.Java.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/Bucket.Java.md",
@@ -168,8 +172,6 @@
     "system-design-case-studies/high-level-design/diagrams/cache-access.png",
     "system-design-case-studies/high-level-design/diagrams/alex-xu-hld-chapter-1.png",
     "system-design-case-studies/high-level-design/basics/caching-strategy.md",
-    "system-design-case-studies/high-level-design/basics/consistency-strategy.md",
-    "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
     "system-design-case-studies/high-level-design/basics",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
@@ -191,8 +193,6 @@
     "system-design-case-studies/high-level-design/diagrams/my-obsidian-library.excalidrawlib",
     "Excalidraw/Drawing 2024-09-17 15.17.14.excalidraw.md",
     "Excalidraw/Unconfirmed 909416.crdownload",
-    "system-design-case-studies/low-level-design/resources/questions.md",
-    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
     "system-design-case-studies/high-level-design/diagrams",
     "Excalidraw",
     "Untitled.canvas"
