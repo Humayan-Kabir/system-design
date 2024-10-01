@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md"
+                "file": "system-design-case-studies/high-level-design/resources/top questions.md"
               }
             }
           }
@@ -147,22 +147,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a838ada6360afd09",
+  "active": "18b1b0833b80ea54",
   "lastOpenFiles": [
+    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-4-design-a-rate-limiter.md",
+    "system-design-case-studies/high-level-design/resources/top questions.md",
+    "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
+    "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
+    "system-design-case-studies/high-level-design/basics/database-index.md",
+    "system-design-case-studies/low-level-design/resources/questions.md",
+    "system-design-case-studies/high-level-design/basics/bloom-filter.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-2-back-of-the-envelope-calculation.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
     "system-design-case-studies/high-level-design/diagrams/design-url-shortener.excalidraw.md",
     "system-design-case-studies/high-level-design/diagrams/design-url-shortener.md",
     "system-design-case-studies/high-level-design/diagrams/design-url-shortener.excalidraw",
-    "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
     "system-design-case-studies/high-level-design/diagrams/Unconfirmed 719515.crdownload",
     "system-design-case-studies/high-level-design/basics/consistency-strategy.md",
     "system-design-case-studies/high-level-design/basics/lsm-tree.md",
-    "system-design-case-studies/high-level-design/basics/database-index.md",
-    "system-design-case-studies/high-level-design/basics/bloom-filter.md",
-    "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/HashMap.Java.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/Node.Java.md",
     "system-design-case-studies/low-level-design/design-hash-map/solution/Bucket.Java.md",
@@ -182,15 +187,10 @@
     "system-design-case-studies/high-level-design/basics/caching-strategy.md",
     "system-design-case-studies/high-level-design/basics",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-3-framework-for-sytem-design-interview.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-2-back-of-the-envelope-calculation.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1",
     "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-solution.md",
     "system-design-case-studies/high-level-design/basics/database-indexing.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
     "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
-    "system-design-case-studies/high-level-design/resources/top questions.md",
-    "README.md",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
     "system-design-case-studies/high-level-design/diagrams/my-obsidian-library.excalidrawlib",
     "Excalidraw/Unconfirmed 909416.crdownload",
