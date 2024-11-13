@@ -1,5 +1,4 @@
 ## Problem Solving
-
 * amazon'24 questions [aonecode blog](https://aonecode.com/amazon-interview-questions)
 * amazon'23 online assesment questions [codeforces blog](https://codeforces.com/blog/entry/94518)
 ## LP Questions

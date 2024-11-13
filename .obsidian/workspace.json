@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8a363587db2dd4",
+        "id": "0a57e30b94235219",
         "type": "tabs",
         "children": [
           {
-            "id": "df52dc29f3acf014",
+            "id": "a838ada6360afd09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/node/node version manager.md",
+                "file": "2024-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "node version manager"
+              "title": "2024-09-14"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/node/node version manager.md",
+                "file": "interview-questions/amazon/common questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for node version manager"
+              "title": "Backlinks for common questions"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/node/node version manager.md",
+                "file": "interview-questions/amazon/common questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from node version manager"
+              "title": "Outgoing links from common questions"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/node/node version manager.md"
+                "file": "interview-questions/amazon/common questions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of node version manager"
+              "title": "Outline of common questions"
             }
           }
         ]
@@ -163,29 +163,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df52dc29f3acf014",
+  "active": "a838ada6360afd09",
   "lastOpenFiles": [
-    "backend/node/node version manager.md",
-    "backend/node",
-    "Untitled",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
-    "backend",
-    "system-design-case-studies/high-level-design/diagrams/design-url-shortener.excalidraw.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
-    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
     "README.md",
-    "dev-ops",
+    "backend/node/node version manager.md",
     "2024-09-14.md",
+    "backend/node",
     "interview-questions/amazon/common questions.md",
+    "backend/js",
+    "backend",
     "system-design-case-studies/high-level-design/resources/top questions.md",
     "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-4-design-a-rate-limiter.md",
     "system-design-case-studies/high-level-design/resources/topics.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
     "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
     "system-design-case-studies/high-level-design/basics/database-index.md",
     "system-design-case-studies/low-level-design/resources/questions.md",
     "system-design-case-studies/high-level-design/basics/bloom-filter.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-2-back-of-the-envelope-calculation.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
+    "system-design-case-studies/high-level-design/diagrams/design-url-shortener.excalidraw.md",
     "system-design-case-studies/high-level-design/diagrams/design-url-shortener.md",
     "system-design-case-studies/high-level-design/diagrams/design-url-shortener.excalidraw",
     "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
@@ -208,8 +207,8 @@
     "system-design-case-studies/high-level-design/diagrams/cdn-workflow.png",
     "system-design-case-studies/high-level-design/diagrams/cache-access.png",
     "system-design-case-studies/high-level-design/diagrams/alex-xu-hld-chapter-1.png",
-    "system-design-case-studies/high-level-design/basics/caching-strategy.md",
     "system-design-case-studies/high-level-design/basics",
+    "system-design-case-studies/high-level-design/alex-xu-book-1",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
     "Untitled.canvas"
   ]
