@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 310.5
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -163,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a838ada6360afd09",
+  "active": "18b1b0833b80ea54",
   "lastOpenFiles": [
+    "frontend",
     "README.md",
     "backend/node/node version manager.md",
     "2024-09-14.md",
