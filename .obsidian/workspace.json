@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "backend/node/tools/nvm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-09-14"
+              "title": "nvm"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 241.5
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -165,13 +165,16 @@
   },
   "active": "18b1b0833b80ea54",
   "lastOpenFiles": [
+    "backend/db/mongo",
+    "backend/db",
+    "backend/node/tools",
+    "2024-09-14.md",
     "frontend",
     "README.md",
-    "backend/node/node version manager.md",
-    "2024-09-14.md",
+    "backend/node/tools/nvm.md",
     "backend/node",
-    "interview-questions/amazon/common questions.md",
-    "backend/js",
+    "questions/amazon/common questions.md",
+    "backend/node/js",
     "backend",
     "system-design-case-studies/high-level-design/resources/top questions.md",
     "system-design-case-studies/high-level-design/diagrams/design-rate-limiter-excalidraw.excalidraw.md",
@@ -198,7 +201,6 @@
     "system-design-case-studies/low-level-design/design-hash-map/solution",
     "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-overview.md",
     "system-design-case-studies/low-level-design/design-atm/design-atm-overview.html",
-    "system-design-case-studies/low-level-design/design-atm",
     "system-design-case-studies/high-level-design/diagrams/message-queue.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-visualization.png",
@@ -208,8 +210,6 @@
     "system-design-case-studies/high-level-design/diagrams/cdn-workflow.png",
     "system-design-case-studies/high-level-design/diagrams/cache-access.png",
     "system-design-case-studies/high-level-design/diagrams/alex-xu-hld-chapter-1.png",
-    "system-design-case-studies/high-level-design/basics",
-    "system-design-case-studies/high-level-design/alex-xu-book-1",
     "system-design-case-studies/high-level-design/diagrams/system-design-topics.png",
     "Untitled.canvas"
   ]
