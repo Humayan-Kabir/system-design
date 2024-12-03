@@ -1,0 +1,4 @@
+- component shouldn't change props
+- components should modify something which is in parent component or defined globally.
+- component should return same thing for same input doesn't depends on time
+

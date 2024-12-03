@@ -1,0 +1,5 @@
+- don't change props in class component
+- in class components react handles 
+	- render()
+	- props
+- 

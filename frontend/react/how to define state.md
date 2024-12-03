@@ -1,0 +1,3 @@
+- state should be changed over the time
+- props can't be state
+- it shouldn't be derived from props / other state
