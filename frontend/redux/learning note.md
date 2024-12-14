@@ -1,0 +1,12 @@
+- when connecting component  we  need
+	- connect(mapStateToProps, mapDispatchToProps)
+		- ownProps is available in mapStateToProps
+		- this two method can be any section of the state and dispatch any action dynamically if we code manually.
+	- useSelector() hooks and useDispatch hook()
+- for multiple features reducers we need
+	- rootReducer = combineReducers()
+- createStore(rootReducer)
+	- we can pass middleware 
+	- createStore(reducer, applyMiddleware(...))
+- devTools
+	- composeWithDevTools(middleware
