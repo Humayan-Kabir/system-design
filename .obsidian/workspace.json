@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/css/resources.md",
+                "file": "2024-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "2024-09-14"
             }
           }
         ]
@@ -165,30 +165,31 @@
   },
   "active": "1f458ab90e81bf13",
   "lastOpenFiles": [
-    "frontend/redux/learning note.md",
-    "frontend/redux/hooks.md",
-    "frontend/redux/redux best practice.md",
+    "README.md",
     "frontend/css/resources.md",
+    "2024-09-14.md",
+    "frontend/redux/learning note.md",
+    "frontend/redux/redux best practice.md",
+    "frontend/redux/why redux.md",
+    "frontend/redux/hooks.md",
+    "backend/backend-topics-resources.md",
+    "Untitled.md",
+    "Untitled",
     "frontend/css",
     "frontend/Untitled.md",
-    "frontend/redux/why redux.md",
     "frontend/react/hooks.md",
-    "2024-09-14.md",
     "frontend/redux",
-    "Untitled",
     "frontend/react/projects.md",
     "frontend/react/composition vs inheritance.md",
     "frontend/react/pure component.md",
     "frontend/react/how to define state.md",
     "frontend/react/functional vs class component.md",
-    "Untitled.md",
     "frontend/react",
     "backend/node/tools/nvm.md",
     "backend/db/mongo",
     "backend/db",
     "backend/node/tools",
     "frontend",
-    "README.md",
     "backend/node",
     "questions/amazon/common questions.md",
     "backend/node/js",
@@ -200,7 +201,6 @@
     "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
     "system-design-case-studies/high-level-design/basics/database-index.md",
     "system-design-case-studies/low-level-design/resources/questions.md",
-    "system-design-case-studies/high-level-design/basics/bloom-filter.md",
     "system-design-case-studies/high-level-design/diagrams/message-queue.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-visualization.png",

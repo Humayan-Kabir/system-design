@@ -10,3 +10,8 @@
 	- createStore(reducer, applyMiddleware(...))
 - devTools
 	- composeWithDevTools(middleware
+- redux toolkit
+	- createSlice 
+		- reducers, actionTypes, actionCreators all in same file
+		- params (name, reducers, extraReducers, middleware)
+		- 
