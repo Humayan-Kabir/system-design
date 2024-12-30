@@ -1,0 +1,6 @@
+- in async communication it is possible to have unusual state of the application
+	- signin -> ongoing -> signout pressed -> api response
+- generator function 
+	- easy to test, it allows to communicate at each yield point.
+- when more actions are added, they communicate to each others then things become complicated, and redux saga comes into play.
+- 

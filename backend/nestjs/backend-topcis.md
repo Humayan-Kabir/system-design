@@ -1,0 +1,21 @@
+- architecture (controller, services, repository)
+- validation
+- error handling
+- logging 
+- security best practice
+	- algorithms hashing, encryption / decryption
+- http methods / crud
+- orm
+	- typeorm
+	- prisma
+- db
+	- postgres
+	- mongo
+	- redis
+- authorization / authentication
+	- passportjs, nextauth
+- deployment
+	- docker, kubernetes, ansible, terraform
+	- github action + ci / cd
+- aws
+

@@ -1,0 +1,3 @@
+- reduces loading, error handling boilerplate code
+- caching
+- 
