@@ -2,6 +2,8 @@
 - validation
 - error handling
 - logging 
+- api 
+	- rest, graph, idempotent
 - security best practice
 	- algorithms hashing, encryption / decryption
 - http methods / crud
