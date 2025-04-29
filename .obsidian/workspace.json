@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "2024-09-14"
             }
+          },
+          {
+            "id": "c679ffe0eedf9ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/devops/aws/ssh-to-ecs-fargate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ssh-to-ecs-fargate"
+            }
+          },
+          {
+            "id": "af5c9872134e7575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/devops/aws/ssh-to-ecs-fargate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ssh-to-ecs-fargate"
+            }
+          },
+          {
+            "id": "9d1c07cabaf59955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system-design-case-studies/high-level-design/case-studies/localization-service.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "localization-service"
+            }
+          },
+          {
+            "id": "985aeb4e84fb504b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system-design-case-studies/high-level-design/case-studies/price-drop-tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "price-drop-tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -40,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 335.5
   },
   "right": {
     "id": "8c5410ac77b94ef4",
@@ -163,44 +221,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f458ab90e81bf13",
+  "active": "985aeb4e84fb504b",
   "lastOpenFiles": [
+    "Excalidraw/localization-service.excalidraw.md",
+    "system-design-case-studies/high-level-design/case-studies/localization-service.md",
+    "system-design-case-studies/high-level-design/case-studies/price-drop-tracker.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-4-design-a-rate-limiter.md",
+    "Excalidraw/price-drop-tracker.excalidraw.md",
+    "Excalidraw",
     "README.md",
-    "backend/devops/aws/ssh-to-ecs-fargate.md",
+    "system-design-case-studies/high-level-design/case-studies",
     "2024-09-14.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-diagram.md",
+    "system-design-case-studies/low-level-design/design-hash-map/design-hashmap-overview.md",
+    "frontend/redux/redux-saga.md",
+    "frontend/redux/learning note.md",
+    "frontend/redux/hooks.md",
+    "backend/devops/aws/ssh-to-ecs-fargate.md",
+    "system-design-case-studies/high-level-design/basics/caching-strategy.md",
+    "system-design-case-studies/high-level-design/basics/algorithms-you-should-know.md",
+    "system-design-case-studies/high-level-design/basics/bloom-filter.md",
+    "system-design-case-studies/high-level-design/basics/consistency-strategy.md",
+    "system-design-case-studies/high-level-design/basics/database-index.md",
+    "system-design-case-studies/high-level-design/basics/lsm-tree.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-8-design-url-shortener.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-5-consistent-hashing.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-6-design-key-value-store.md",
+    "questions/amazon/common questions.md",
+    "system-design-case-studies/high-level-design/alex-xu-book-1/chapter-1-scale-from-zero-to-millions-users.md",
+    "frontend/redux/redux-thunk.md",
+    "frontend/redux/rtk-query.md",
     "backend/devops/aws",
     "backend/devops",
     "Untitled",
-    "frontend/css/resources.md",
-    "backend/db/prisma/basics.md",
     "backend/db/prisma",
-    "backend/nestjs/resources.md",
-    "backend/nestjs/backend-topcis.md",
-    "frontend/webpack/learn-webpack.md",
-    "backend/topics.md",
     "frontend/webpack",
-    "backend/db/dbms/resources.md",
-    "system-design-case-studies/high-level-design/resources/topics.md",
     "backend/db/dbms",
-    "system-design-case-studies/high-level-design/resources/top questions.md",
-    "system-design-case-studies/high-level-design/resources/online materials.md",
-    "system-design-case-studies/high-level-design/resources/how to crack system design question step by step guide.md",
-    "frontend/redux/why redux.md",
-    "frontend/redux/rtk-query.md",
-    "frontend/redux/redux-saga.md",
-    "frontend/redux/redux best practice.md",
-    "frontend/redux/learning note.md",
-    "frontend/redux/hooks.md",
-    "frontend/react/composition vs inheritance.md",
-    "frontend/react/functional vs class component.md",
-    "frontend/react/hooks.md",
-    "frontend/react/how to define state.md",
-    "frontend/react/pure component.md",
     "backend/nestjs",
-    "questions/amazon/common questions.md",
     "frontend/css",
-    "frontend/redux",
-    "frontend/react",
     "system-design-case-studies/high-level-design/diagrams/message-queue.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-with-power-of-two.png",
     "system-design-case-studies/high-level-design/diagrams/estimation-visualization.png",
