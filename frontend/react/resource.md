@@ -4,6 +4,7 @@ React Project
 
 Next Js 
 - code with antonio
+- edroh
 
 Tailwind
 - build some projects with react

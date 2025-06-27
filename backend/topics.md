@@ -1,1 +1,8 @@
+- spring boot patient management
+- security, spring cloud
+- saga, sidecar, event driven, kafka, flink
+- docker + linux troubleshoot
+- 12 factor app
+- postgresql
+- movie ticket booking
 - 
